@@ -1,0 +1,24 @@
+
+body{
+	width:1200;
+	background-color:#F78181;
+}
+
+.contact{
+		width: 720px;
+		background-color: #F6CECE;
+		margin: auto;
+	
+	}
+	.contact input{
+		width: 700px;
+		height : 40px;
+		margin: 10px;
+		text-align: center;
+
+	}
+	textarea{
+		width:700px;
+		height: 400px;
+		margin-left: 8px;
+	}

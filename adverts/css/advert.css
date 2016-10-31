@@ -1,0 +1,195 @@
+body{
+	background-color:#F2F2F2;
+	width: 1250px;
+	margin: auto;
+}
+
+
+
+
+header{
+	width: 1250px;
+	height:70px;
+	background-color:#F7FE2E;
+}
+header img{
+	width: 60px;
+	height:60px;
+	margin-left:40px;
+	background-color:yellow;
+}
+ul{
+	float:right;
+}
+li{
+	float:left;
+	display:inline;
+	margin-right:20px;
+	padding:5px;
+	text-decoration:none;
+}
+header a {
+	text-decoration:none;
+	font-size:20px;
+}
+.one{
+	background-image: url("../image/img01.jpg");
+	margin:0 auto;
+	width: 1250px;
+	height:400px;
+	background-repeat: no-repeat;
+	background-position: center center;
+	-moz-background-size: cover;
+  -o-background-size: cover;
+
+	
+
+}
+.left{
+	width: 500px;
+	float: left;
+}
+
+.right img{
+	height:270px;
+	width:250px;
+}
+.right{
+
+	width:500px;
+	float: right;
+	margin: 35px;
+}
+
+.left img {
+	width: 300px;
+	height:30px;
+	margin-left: 50px;
+	margin-top:70px;
+}
+.left p{
+	text-align: center;
+	margin-top: 20px;
+	margin-left: 30px;
+	font-size: 25px;
+	color:red;
+}
+.left a{
+	text-align: center;
+	background-color: red;
+	text-decoration: none;
+	width: 15px;
+	height:5px;
+	padding:3px;
+	color: white;
+	margin-left: 30px;
+	margin-top:60px;
+}
+.two{
+	width:1250px;
+	
+}
+.two div{
+	width:1100px;
+	text-align:center;
+	font-size: 20px;
+	font-style: arial;
+
+}
+.three{
+	width:100%;
+
+}
+.three div{
+	display:inline-block;
+	width:210px;
+	text-align:center;
+	height: 200px;
+	margin:10px 0 0 20px;
+	padding:10px;
+	font-size:20px;
+	font-style:arial;
+}
+.four{
+	width:1100;
+	height:700px;
+	background-color:#D7DF01;
+	margin-top: 40px;
+	text-align: center;
+}
+
+
+
+.four div {
+	display: inline;
+	margin: 10px;
+	margin: 10px;
+}
+.five{
+	width:1025px;
+	clear:both;
+	display:inline-block;
+	
+}
+.bottom-wrapper{
+	width:1200px;
+	
+	} 
+
+	.bottom1{
+		margin-top:;
+		width:250px;
+		float:left;
+		font-size:25px;
+		text-decoration:none;
+	}
+	.bottom1{
+		
+		width:250px;
+		
+	}
+	.bottom2{
+		
+		width:350px;
+		
+	}
+	.bottom3{
+		
+		width:400px;
+		
+	}
+	.bottom-wrapper div{
+	display: inline-block;
+	margin:5px;
+	padding:5px;
+	text-align:justify;
+	} 
+	.bottom-wrapper img{
+	height: 500px;
+	width:380px;
+	margin-left:20px;
+	} 
+	.bottom1 ul li a{
+		text-decoration: none;
+		display:inline-block;
+	}
+
+	.active{
+		background-color:red
+		
+	}
+	a:hover{
+		text-decoration: underline;
+		color: red;
+	}
+	.about{
+		width: 700px;
+		background-color: red;
+	
+	}
+	.about input{
+		width: 700px;
+		margin: auto;
+		text-align: center;
+
+	}
